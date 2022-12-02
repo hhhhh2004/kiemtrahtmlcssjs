@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+ }
+ body{
+    font-family: sans-serif;
+    text-align: center
+ }
+ .title{
+   padding: 25px;
+ }
+ .titles{
+    padding-bottom: 25px;
+ }
+ .btn1 button {
+   border: 1px blue;
+    background-color: aqua ;
+     border-radius: 10px;
+    margin-bottom: 15px;
+    width: 400px;
+    height: 50px;
+    
+ }
+ .btn2 button{
+    border: 1px blue;
+    background-color: blue ;
+     border-radius: 10px;
+    margin-bottom: 15px;
+    width: 400px;
+    height: 50px;
+ }
+ .or{
+    margin-top: 25px;
+    margin-bottom: 15px;
+ }
+.form div input{
+    border: 10px solid blue;
+    padding: 50px;
+    font-size: 100px;/*ko the chay duoc*/
+}
+.person{
+    padding-bottom:15px ;
+    
+}
+.email{
+    padding-bottom:15px ;
+    
+}
+.phone{
+    padding-bottom:15px ;
+}
+.job{
+    padding-bottom:15px ;
+}
+.pass{
+    padding-bottom:15px ;
+}
+.clock{
+    padding-bottom:15px ;
+}
+.submit button{
+    border: 1px blue;
+    background-color: blueviolet ;
+     border-radius: 10px;
+    margin-bottom: 15px;
+    width: 400px;
+    height: 50px;
+   
+}
+.submit button:hover{
+    background-color: red;
+}
